@@ -1,0 +1,28 @@
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.Analytics.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.Bootstrapping.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.Calendars.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.Conventions.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.DAL.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.DataModel.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.Maths.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.Pricing.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.Tools.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\QLNet.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\OMLib.Data.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\obj\Debug\Single-Name CDS.csprojResolveAssemblyReference.cache
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UI.resources
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\obj\Debug\Single-Name CDS.csproj.GenerateResource.Cache
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.xml
