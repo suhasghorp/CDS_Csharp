@@ -1,4 +1,4 @@
-#This folder is part of the CDS project written in C#.
+This folder is part of the CDS project written in C#.
 ========================================================
 User can price single name CDS with any tradedate, cds curve, swap rates, etc.
 
