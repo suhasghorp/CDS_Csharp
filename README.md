@@ -1,4 +1,4 @@
-# This folder is part of the CDS project written in C#.   
+# This folder is part of the CDS project written in C#.
 # User can price single name CDS with any tradedate, cds curve, swap rates, etc.
 # Classes for pricing cds index is included, yet associated Windows Form UI is blinded for business use.
 # Classes for risk measures including RV01 and Spread01 are included.
